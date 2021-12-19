@@ -1,0 +1,7 @@
+Vamos a crear un entorno de desarrollo para nuestro codigo el cual nos permita luego compilarlo a produccion 
+
+1) Instalar los paquetes necesarios para configurar webpack y babel : webpack webpack-cli webpack-dev-server babel babel-core babel-loader babel-preset-env babel-preset-minify
+
+2) Crear un archivo de configuracion para webpack y para babel y configurar la transpilacion y compilacion del codigo para produccion minificando el codigo y comprimiendolo
+
+3) Utilizar el mismo archivo de configuracion de webpack para agregar compilacion de CSS 
